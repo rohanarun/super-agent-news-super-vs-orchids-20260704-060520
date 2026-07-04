@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[orchids.app](https://www.orchids.app/blog/introducing-orchids-1-0)",
+    "[makerstack.co](https://makerstack.co/reviews/orchids-review/)",
+    "[villpress.com](https://villpress.com/orchids-rebrands-to-bud-launches-first-ai-agent-with-a-full-computer/)",
+    "[trend-hunt.com](https://trend-hunt.com/en/product/orchids)",
+    "[memeburn.com](https://memeburn.com/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[msn.com](https://www.msn.com)",
+    "[mit.edu](https://news.mit.edu/2026/qa-what-agentic-ai-today-and-what-do-we-want-it-be)"
+  ],
+  "design_plan": "rng=42; hero_math=1120px/2.2lines; AIDA=pass; grid_density=compare-grid:grid-auto-flow:dense; label_sweep=all competitors mentioned; button_contrast=black/white pills verified",
+  "generated_at": "2026-07-04T06:05:27.058334+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "Orchids is a powerful AI app builder and IDE for generating full\u2011stack applications across many stacks. Super is built for a different job: durable personal AI agents that actually operate computers and reuse a computer\u2011use cache, so repeated workflows get faster and cheaper over time. This page fairly compares what Orchids excels at today \u2014 and where Super is the sharper alternative for ongoing computer\u2011use automation."
+}
